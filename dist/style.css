@@ -1,0 +1,39 @@
+html{
+  background-color: #CFD8DC;  
+}
+#quote-box {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+#editor {
+  background-color: #607D8B;
+  text-align: left;
+  border: 2px solid #78909C;
+  width: 50%;
+  margin-top: auto;
+}
+#label_editor {
+  width: 50%;
+  background-color: #607D8B;
+  border: 4px solid #607D8B;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
+
+#preview {
+  background-color: #607D8B;
+  text-align: left;
+  border: 2px solid #78909C;
+  width: 50%;
+  margin-top: auto;
+}
+#label_preview {
+  width: 50%;
+  background-color: #607D8B;
+  border: 4px solid #607D8B;
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 20px;
+}
